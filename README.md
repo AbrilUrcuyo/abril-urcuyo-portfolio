@@ -6,3 +6,6 @@ I am Abril Urcuyo Arce, a Software Engineering student at the Universidad Nacion
 ## 🎓 Education
 ## 🎯 Interests
 ## 📫 Contact
+- Email: aurcuyoarce@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abrilurcuyo
+- GitHub: https://github.com/AbrilUrcuyo
