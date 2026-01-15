@@ -14,6 +14,16 @@ Fullstack web application for managing medical appointments.
 
 👉 https://github.com/AbrilUrcuyo/ProyectoPrograIV_Citas2
 
+### 📡 Messaging System in C (Broker, Producer and Consumer)
+Concurrent messaging system implemented in C using TCP sockets and multithreading.
+
+- Broker-based architecture with producers and consumers
+- Message distribution using Round Robin per consumer group
+- Concurrency control using mutexes, semaphores and condition variables
+- Circular queue with message persistence and logging
+- Compilation supported via Makefile
+
+👉 [https://github.com/AbrilUrcuyo/message_broker](https://github.com/AbrilUrcuyo/Message_Broker)
 ## 🎓 Education
 ## 🎯 Interests
 ## 📫 Contact
