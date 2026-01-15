@@ -3,7 +3,14 @@ I am Abril Urcuyo Arce, a Software Engineering student at the Universidad Nacion
 
 ## 🛠 Technical Skills
 
+- **Programming Languages:** C, C++, Python, JavaScript
+- **Backend & Databases:** MySQL, REST APIs, JWT authentication, sqlite
+- **Systems & Networking:** Linux, TCP/IP, sockets, Cisco Networking
+- **DevOps & Tools:** GitHub, Docker (basic), Azure (basic)
+- **Methodologies:** Agile / Scrum
+
 ## 🚀 Projects
+
 ### 🏥 Medical Appointments Management System
 Fullstack web application for managing medical appointments.
 
@@ -24,8 +31,27 @@ Concurrent messaging system implemented in C using TCP sockets and multithreadin
 - Compilation supported via Makefile
 
 👉 [https://github.com/AbrilUrcuyo/message_broker](https://github.com/AbrilUrcuyo/Message_Broker)
+
+
 ## 🎓 Education
+
+**B.Sc. in Information Systems Engineering**  
+Universidad Nacional of Costa Rica  
+Fourth-year student — Expected graduation: November 2026
+
+**Diploma in Application Programming**  
+Universidad Nacional of Costa Rica
+
+**Technical Diploma in Computer Networking**  
+Colegio Técnico Profesional Regional de San Carlos
+
+
 ## 🎯 Interests
+
+- Systems programming
+- Networking and distributed systems
+- Backend and infrastructure-oriented software development
+
 ## 📫 Contact
 - Email: aurcuyoarce@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abrilurcuyo
